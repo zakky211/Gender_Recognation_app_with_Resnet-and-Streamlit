@@ -1,4 +1,5 @@
-# Resnet and Streamlit
+# About
+Gender recognition application using Resnet model and streamlit
 
-
-## Download the dataset from this link https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
+# Contact
+Zakkyholmes@gmail.com
