@@ -1,8 +1,7 @@
 # Introduction
 Gender classification  refers to the task of automatically identifying the gender (male or female) of individuals based on various inputs, typically images. It is a common application of machine learning and computer vision techniques.
 
-# Getting Started
-
+# Tutorial
 1. Dataset Preparation:
 Obtain a dataset with images labeled with gender (male or female).
 Split the dataset into training and testing sets.
