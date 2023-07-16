@@ -21,7 +21,7 @@ def header_female(url):
 def classification_machine(image1):
 
 	#loading the gender classifier model
-	model = tf.keras.models.load_model('model2.h5')
+	model = tf.keras.models.load_model('model2.h5') # replace with your model
 	shape = (218, 178, 3)  # input shape
 	model = tf.keras.Sequential([hub.KerasLayer(model, input_shape=shape)])
 	test_image = image1.resize((178, 218))
