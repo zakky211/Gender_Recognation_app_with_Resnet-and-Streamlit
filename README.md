@@ -51,19 +51,6 @@ Perform additional data augmentation or explore advanced techniques like transfe
 # Dataset
 https://www.kaggle.com/datasets/jessicali9530/celeba-dataset
 
-# Training and Validation
-![](training_and_validation.png)
-
-# Accuration
-![](accuration.png)
-
-# Confusion Matrix
-![](confusion_matrix.png)
-
-# Testing_Result
-![](Testing_Result.png)
-
-
 # About
 Gender recognition application using Resnet model and streamlit
 
